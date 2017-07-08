@@ -1,5 +1,5 @@
 var dDocuments = require('../Database/DDocuments');
-var lSession = require('../Logic/lSession');
+var lSession = require('../Logic/LSession');
 var ut = require('../utils');
 
 
